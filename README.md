@@ -1,4 +1,4 @@
-## Hi my name is Mikołaj Wałachowski 
+## Hi, my name is Mikołaj Wałachowski 
   Third year Computer Science student at Warsaw University of Technology and a Software Engineer. 
 
   Used to love discrete maths and graph theory, nowadays developing web apps and services.
