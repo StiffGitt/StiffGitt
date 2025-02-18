@@ -1,9 +1,9 @@
 ## Hi, my name is Mikołaj Wałachowski 
-  Third year Computer Science student at Warsaw University of Technology and a Software Engineer. 
+  Computer Science graduate at Warsaw University of Technology and a Software Engineer. 
 
-  Used to love discrete maths and graph theory, nowadays developing web apps and services.
+  Currently navigating a love-hate relationship with algorithms while developing web applications and services to earn a living.
   
-  Mostly cooking in .NET, C++, Java and JavaScript.
+  Mostly cooking in C++, C#, Java and JavaScript.
 ##
 <div align="left">
 
